@@ -1,4 +1,4 @@
-# File: surgical_box_object_detection.py
+# Our base model to compare to our trained model
 
 import torch
 import cv2
