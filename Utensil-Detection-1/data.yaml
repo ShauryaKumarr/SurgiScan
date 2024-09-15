@@ -1,0 +1,7 @@
+path: ../Utensil-Detection-1  # Path relative to where the training script is run
+train: /Users/shauryakumar/SurgiScan/Utensil-Detection-1/train/images
+val: /Users/shauryakumar/SurgiScan/Utensil-Detection-1/valid/images
+test: test/images
+
+nc: 3  # Number of classes
+names: ['fork', 'knife', 'spoon']  # Class names
